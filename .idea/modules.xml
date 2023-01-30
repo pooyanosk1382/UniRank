@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../UCL21-22/.idea/UCL21-22.iml" filepath="$PROJECT_DIR$/../UCL21-22/.idea/UCL21-22.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/UniRank.iml" filepath="$PROJECT_DIR$/.idea/UniRank.iml" />
     </modules>
   </component>
