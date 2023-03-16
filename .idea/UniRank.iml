@@ -5,5 +5,10 @@
     <orderEntry type="jdk" jdkName="Python 3.11" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="UCL21-22" />
+    <orderEntry type="module" module-name="tehranHousePrice" />
+    <orderEntry type="module" module-name="pakistan" />
+    <orderEntry type="module" module-name="IranianMovies" />
+    <orderEntry type="module" module-name="DogBreeds" />
+    <orderEntry type="module" module-name="BestArt" />
   </component>
 </module>

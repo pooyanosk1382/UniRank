@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../BestArt/.idea/BestArt.iml" filepath="$PROJECT_DIR$/../BestArt/.idea/BestArt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DogBreeds/.idea/DogBreeds.iml" filepath="$PROJECT_DIR$/../DogBreeds/.idea/DogBreeds.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../IranianMovies/.idea/IranianMovies.iml" filepath="$PROJECT_DIR$/../IranianMovies/.idea/IranianMovies.iml" />
       <module fileurl="file://$PROJECT_DIR$/../UCL21-22/.idea/UCL21-22.iml" filepath="$PROJECT_DIR$/../UCL21-22/.idea/UCL21-22.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/UniRank.iml" filepath="$PROJECT_DIR$/.idea/UniRank.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pakistan/.idea/pakistan.iml" filepath="$PROJECT_DIR$/../pakistan/.idea/pakistan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../tehranHousePrice/.idea/tehranHousePrice.iml" filepath="$PROJECT_DIR$/../tehranHousePrice/.idea/tehranHousePrice.iml" />
     </modules>
   </component>
 </project>
